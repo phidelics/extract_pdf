@@ -1,2 +1,2 @@
 # extract_pdf
-extracting text from pdf
+This is a python code for extracting a text from pdf file.
